@@ -1,0 +1,6 @@
+C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\bin\BatteryWCF.dll.config
+C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\bin\BatteryWCF.dll
+C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\bin\BatteryWCF.pdb
+C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.csprojResolveAssemblyReference.cache
+C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.dll
+C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.pdb

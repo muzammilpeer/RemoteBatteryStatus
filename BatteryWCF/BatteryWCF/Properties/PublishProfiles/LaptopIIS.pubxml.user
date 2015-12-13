@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUGw8abp+H0aS/4bl6dcDIQAAAAACAAAAAAAQZgAAAAEAACAAAAClBT0gBuvaW5/bqHVcW3YodAHkZWEpFWF7MuUG4Syk5wAAAAAOgAAAAAIAACAAAABAKYs6BVhjLM0FdnLDJIuMzaOgcopD60Ak42rkIwbMJiAAAAAYdLiaBiWZH3R9HEL6iIuMe8OkJnuIXm+io4ZxvrjvS0AAAAC2ESubJ5HPMVH8TLfknH2IYypvDHDGKe3dBzk/0BBNP2lOShwiHgU9KqGRTNA1NYJbsZQ13WHgOR5x5Nleeoua</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.168.254.102</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BatteryWCF.dll">
+      <publishTime>12/28/2014 11:29:32</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/28/2014 11:29:33</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>12/28/2014 10:48:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/28/2014 11:27:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
