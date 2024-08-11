@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/battery">
+    <file relUrl="BatteryWCF.Service1.svc" publishTime="03/04/2012 22:32:56" />
+    <file relUrl="bin/BatteryWCF.pdb" publishTime="03/04/2012 22:32:52" />
+    <file relUrl="bin/BatteryWCF.dll.config" publishTime="03/04/2012 11:30:28" />
+    <file relUrl="bin/BatteryWCF.dll" publishTime="03/04/2012 22:32:52" />
+    <file relUrl="Web.config" publishTime="03/04/2012 11:30:28" />
+  </publishTarget>
+</publishData>

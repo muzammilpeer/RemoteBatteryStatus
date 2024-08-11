@@ -1,9 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryWCF", "BatteryWCF\BatteryWCF.csproj", "{7BEF96D3-164A-44A7-A132-CF1D2EA8794D}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryWCF", "BatteryWCF\BatteryWCF.csproj", "{18E3291E-0CCB-486B-B742-A4E7B22266A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7BEF96D3-164A-44A7-A132-CF1D2EA8794D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BEF96D3-164A-44A7-A132-CF1D2EA8794D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BEF96D3-164A-44A7-A132-CF1D2EA8794D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BEF96D3-164A-44A7-A132-CF1D2EA8794D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E3291E-0CCB-486B-B742-A4E7B22266A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E3291E-0CCB-486B-B742-A4E7B22266A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E3291E-0CCB-486B-B742-A4E7B22266A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E3291E-0CCB-486B-B742-A4E7B22266A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
-C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\bin\BatteryWCF.dll.config
-C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\bin\BatteryWCF.dll
-C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\bin\BatteryWCF.pdb
-C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.csprojResolveAssemblyReference.cache
-C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.dll
-C:\Users\MuzammilPeer\documents\visual studio 2013\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.pdb
+c:\users\muzammilpeer\documents\visual studio 2010\Projects\BatteryWCF\BatteryWCF\bin\Debug\BatteryWCF.dll.config
+c:\users\muzammilpeer\documents\visual studio 2010\Projects\BatteryWCF\BatteryWCF\bin\Debug\BatteryWCF.dll
+c:\users\muzammilpeer\documents\visual studio 2010\Projects\BatteryWCF\BatteryWCF\bin\Debug\BatteryWCF.pdb
+c:\users\muzammilpeer\documents\visual studio 2010\Projects\BatteryWCF\BatteryWCF\obj\Debug\ResolveAssemblyReference.cache
+c:\users\muzammilpeer\documents\visual studio 2010\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.dll
+c:\users\muzammilpeer\documents\visual studio 2010\Projects\BatteryWCF\BatteryWCF\obj\Debug\BatteryWCF.pdb
